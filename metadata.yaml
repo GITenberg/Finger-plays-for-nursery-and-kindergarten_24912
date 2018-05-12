@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26809
 description: Eighteen finger-play rhymes and music illustrated with quaint old-fashioned
   pictures. Preschool - kindergarten.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24912#Finger-plays-for-nursery-and-kindergarten
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2008-03-24'
 gutenberg_type: Text
